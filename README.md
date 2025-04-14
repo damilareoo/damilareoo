@@ -23,7 +23,7 @@ Obsessed with great UX, smooth interactions, and vibes that *just feel right*.
 ---
 
 ### 🧩 Currently Exploring
-Better design/dev synergy · Smart interfaces 
+Better design/dev synergy 
 
 
 ---
