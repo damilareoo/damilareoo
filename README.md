@@ -1,5 +1,5 @@
 # Hey, I'm Damilare 👋  
-🎨 Product Designer · 💻 Vibe Coder · 🧠 Creative Thinker  
+🎨 Product Designer · 🧠 Creative Developer  
 
 I craft clean, functional, and beautiful digital experiences — from Figma to code.  
 Obsessed with great UX, smooth interactions, and vibes that *just feel right*.  
