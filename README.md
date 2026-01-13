@@ -1,19 +1,20 @@
-# Hi, I’m Damilare Osofisan  
+# Hi, I’m Damilare Osofisan
+
 **Product & Web Designer | Creative Developer**
 
 ---
 
 ### 🚀 Featured Projects
 
-- [freethebird](https://github.com/damilareoo/freethebird)  
-  An interactive browser game built with **TypeScript & Canvas**, where players guide a bird through obstacles.  
+* [Portfolio Website](https://www.damilareoo.xyz)
+  My personal portfolio built to showcase projects, experiments, and design explorations, all crafted to reflect my process and style.
 
-- [quotes-generator](https://github.com/damilareoo/quotes-generator)  
-  A simple **JavaScript app** that generates random motivational quotes.  
+* [Abstract](https://abstract-team-page.vercel.app/)
+  A team page exploration project, experimenting with layout, interaction, and visual hierarchy.
 
-- [word-ladder-war-game](https://github.com/damilareoo/word-ladder-war-game)  
-  A fast-paced **word puzzle game** developed in **JavaScript**, challenging players to transform words step by step.  
+* [FreeTheBird](httpscagedbird.vercel.app)
+  Guide a bird through obstacles in this interactive browser game built with **TypeScript & Canvas**.
 
 ---
 
-🌐 [X (Twitter)](https://x.com/damilare_oo) • [Portfolio](https://layers.to/damilareoo)
+🌐 [Twitter](https://x.com/damilare_oo) • [Portfolio](https://www.damilareoo.xyz)
