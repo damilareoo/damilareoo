@@ -1,20 +1,21 @@
-# Hi, I’m Damilare Osofisan
+# Hi, I'm Damilare Osofisan
 
-**Product & Web Designer | Creative Developer**
-
----
-
-### 🚀 Featured Projects
-
-* [Portfolio Website](https://www.damilareoo.xyz)
-  My personal portfolio built to showcase projects, experiments, and design explorations, all crafted to reflect my process and style.
-
-* [Abstract](https://abstract-team-page.vercel.app/)
-  A team page exploration project, experimenting with layout, interaction, and visual hierarchy.
-
-* [FreeTheBird](httpscagedbird.vercel.app)
-  Guide a bird through obstacles in this interactive browser game built with **TypeScript & Canvas**.
+**Product & Web Designer · Creative Developer**
 
 ---
 
-🌐 [Twitter](https://x.com/damilare_oo) • [Portfolio](https://www.damilareoo.xyz)
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [Portfolio](https://www.damilareoo.xyz) | Personal site — projects, experiments, and design process |
+| [Abstract](https://abstract-team-page.vercel.app/) | Team page UI exploration — layout, interaction, visual hierarchy |
+| [FreeTheBird](https://cagedbird.vercel.app) | Browser trivia game — answer questions to free a virtual bird |
+| [Word Ladder War](https://word-ladder-war.vercel.app) | Fast-paced vocabulary game — form words from a single word |
+| [Pixel Soccer](https://v0-pixel-soccer-bc.vercel.app) | Pixel-art browser soccer game |
+| [PNG to SVG](https://png-to-svg-converter.vercel.app) | Convert PNG images to clean, editable SVGs |
+| [Quotes Generator](https://quote-app-three-puce.vercel.app) | Inspirational quote generator with image export |
+
+---
+
+🌐 [Twitter / X](https://x.com/damilare_oo) · [Portfolio](https://www.damilareoo.xyz)
