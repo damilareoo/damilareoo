@@ -1,22 +1,58 @@
-# Hi, I'm Damilare Osofisan
+# Damilare Osofisan
 
 **Product & Web Designer · Creative Developer**
 
----
+I like building things, exploring ideas, and figuring out how to make them work.
 
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [Portfolio](https://www.damilareoo.xyz) | Personal site — projects, experiments, and design process |
-| [Hitman's Library](https://mars-hitman-library.vercel.app) | Design inspiration gallery — colors, fonts, and visual references |
-| [Abstract](https://abstract-team-page.vercel.app/) | Team page UI exploration — layout, interaction, visual hierarchy |
-| [FreeTheBird](https://cagedbird.vercel.app) | Browser trivia game — answer questions to free a virtual bird |
-| [Word Ladder War](https://word-ladder-war.vercel.app) | Fast-paced vocabulary game — form words from a single word |
-| [Pixel Soccer](https://v0-pixel-soccer-bc.vercel.app) | Pixel-art browser soccer game |
-| [PNG to SVG](https://v0-png-to-svg.vercel.app) | Convert PNG images to clean, editable SVGs |
-| [Quotes Generator](https://quote-app-three-puce.vercel.app) | Inspirational quote generator with image export |
+[Portfolio](https://damilareoo.xyz) · [GitHub](https://github.com/damilareoo)
 
 ---
 
-[Twitter / X](https://x.com/damilare_oo) · [Portfolio](https://www.damilareoo.xyz)
+## Selected Builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://hitmanslibrary.xyz/">
+        <img src="https://image.thum.io/get/width/1000/crop/650/https://hitmanslibrary.xyz/" alt="Hitman's Library live preview" width="100%" />
+      </a>
+      <h3><a href="https://hitmanslibrary.xyz/">Hitman's Library ↗</a></h3>
+      A growing collection of interesting websites and visual references, with screenshots, colors, and typography.
+      <br/><br/>
+      <a href="https://github.com/damilareoo/hitmans-library">Source code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://damilares-skills.vercel.app/">
+        <img src="https://image.thum.io/get/width/1000/crop/650/https://damilares-skills.vercel.app/" alt="Damilare's Skills live preview" width="100%" />
+      </a>
+      <h3><a href="https://damilares-skills.vercel.app/">Damilare's Skills ↗</a></h3>
+      A collection of AI coding skills for Claude Code and other coding agents, covering design systems, accessibility, animation, and development workflows.
+      <br/><br/>
+      <a href="https://github.com/damilareoo/damilares-skills">Source code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nothing-pedometer.vercel.app/">
+        <img src="https://image.thum.io/get/width/1000/crop/650/https://nothing-pedometer.vercel.app/" alt="Nothing Pedometer live preview" width="100%" />
+      </a>
+      <h3><a href="https://nothing-pedometer.vercel.app/">Nothing Pedometer ↗</a></h3>
+      An interactive running experience inspired by Nothing OS, with activity details, route tracking, elevation, privacy zones, and shareable run cards.
+      <br/><br/>
+      <a href="https://github.com/damilareoo/nothing-pedometer">Source code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://damilareoo.xyz/">
+        <img src="https://image.thum.io/get/width/1000/crop/650/https://damilareoo.xyz/" alt="Portfolio live preview" width="100%" />
+      </a>
+      <h3><a href="https://damilareoo.xyz/">Portfolio ↗</a></h3>
+      My personal site bringing together selected projects, experiments, and things I've made.
+      <br/><br/>
+      <a href="https://github.com/damilareoo/damilareoo-portfolio">Source code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+Always building something.
