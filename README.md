@@ -45,7 +45,7 @@ I like building things, exploring ideas, and figuring out how to make them work.
       <a href="https://damilareoo.xyz/">
         <img src="https://image.thum.io/get/width/1000/crop/650/https://damilareoo.xyz/" alt="Portfolio live preview" width="100%" />
       </a>
-      <h3><a href="https://damilareoo.xyz/">Portfolio ↗</a></h3>
+      <h3><a href="https://damilareoo.works/">Portfolio ↗</a></h3>
       My personal site bringing together selected projects, experiments, and things I've made.
       <br/><br/>
       <a href="https://github.com/damilareoo/damilareoo-portfolio">Source code</a>
